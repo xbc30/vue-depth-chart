@@ -1,7 +1,8 @@
 {
   "name": "vue-depth-chart",
+  "description": "Configurable Depth Chart component based on Vue",
   "main": "./dist/vue-depth-chart.common.js",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "files": [
     "dist/*",
     "src/*",
@@ -9,6 +10,10 @@
     "*.json",
     "*.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbc30/vue-depth-chart.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -46,5 +51,6 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "homepage": "https://github.com/xbc30/vue-depth-chart#readme"
 }

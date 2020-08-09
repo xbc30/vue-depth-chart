@@ -389,7 +389,7 @@ drawDepth(data, context, options) {
 
 效果如下：
 
-![image](images/effect-axis.png)
+![image](images/effect-depth.png)
 
 #### 4.绘制坐标轴
 
