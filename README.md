@@ -19,7 +19,7 @@ English | [简体中文](https://github.com/xbc30/vue-depth-chart/blob/master/RE
 You can install and save an entry to your package.json with the following command:
 
 ```javascript
-npm i vue-depth-chart --save
+npm i vue-depth-chart -D
 ```
 
 ### Usage
