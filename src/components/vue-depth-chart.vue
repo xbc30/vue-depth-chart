@@ -160,6 +160,7 @@ const defaultNightOptions = {
 };
 
 export default {
+  name: "vue-depth-chart",
   props: {
     data: {
       type: [Object, Array],
@@ -618,7 +619,7 @@ export default {
         const obj = pointMap.get(key);
         if (offsetX < x) {
           // 先清空
-          tipContext.clearRect(0, 0, width, this.options.height);
+          tipContext.clearRect(-10, -10, width + 20, this.options.height + 20);
           // 绘制定位虚线
           tipContext.strokeStyle = tipLocationLineColor;
           tipContext.lineWidth = 1;
