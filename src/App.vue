@@ -116,7 +116,7 @@ export default {
       },
       theme: "day",
       data: {
-        buy: buyArray.reverse(),
+        buy: buyArray,
         sell: sellArray,
       },
     };

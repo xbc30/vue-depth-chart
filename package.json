@@ -2,7 +2,7 @@
   "name": "vue-depth-chart",
   "description": "Configurable Depth Chart component based on Vue",
   "main": "./dist/vue-depth-chart.common.js",
-  "version": "0.1.9",
+  "version": "0.2.3",
   "files": [
     "dist/*",
     "src/*",

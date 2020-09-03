@@ -160,7 +160,6 @@ const defaultNightOptions = {
 };
 
 export default {
-  name: "vue-depth-chart",
   props: {
     data: {
       type: [Object, Array],

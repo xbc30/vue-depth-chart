@@ -19,7 +19,7 @@
 输入下面命令进行安装:
 
 ```javascript
-npm i vue-depth-chart --save
+npm i vue-depth-chart
 ```
 
 ### 使用
